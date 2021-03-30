@@ -18,4 +18,4 @@
 8. Admin details username: ```mahesh``` , password: ```mahesh61437```, email: ```accessmaheshforu@gmail.com```
 
 9. Change email to ```accessmaheshforu@gmail.com``` in login API and you can get the token for admin.
-Use the same token for all the tings. if you forget the token, hit ```get_token``` API with valid username and password to get the new or existing token
+Use the same token for all the tings. if you forget the token, hit ```get_token``` API with valid email and password to get the new or existing token
