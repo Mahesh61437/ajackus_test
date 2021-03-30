@@ -1,0 +1,20 @@
+[
+{
+    "model": "auth.user",
+    "pk": 1,
+    "fields": {
+        "password": "pbkdf2_sha256$216000$pPFvPgTI8UnX$djmkZyNI+MGDgr8uWDjKHlQH6rM/GI0MGnkCmdC3usQ=",
+        "last_login": null,
+        "is_superuser": true,
+        "username": "mahesh",
+        "first_name": "",
+        "last_name": "",
+        "email": "accessmaheshforu@gmail.com",
+        "is_staff": true,
+        "is_active": true,
+        "date_joined": "2021-03-28T09:04:27.603Z",
+        "groups": [],
+        "user_permissions": []
+    }
+}
+]

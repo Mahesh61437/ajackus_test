@@ -1,0 +1,17 @@
+[
+{
+    "model": "api.profile",
+    "pk": 1,
+    "fields": {
+        "user": 1,
+        "address": "",
+        "phone_no": 9999999999,
+        "city": "",
+        "state": "",
+        "country": "",
+        "pin_code": 999999,
+        "created_at": 1617021590,
+        "updated_at": 1617021590
+    }
+}
+]
